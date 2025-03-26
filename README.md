@@ -17,11 +17,12 @@
             width: 700px;
             padding: 50px;
             text-align: center;
+            background: linear-gradient(45deg, #b82020, #a0c51c, #109b1c, #0e32aa);
         }
         body {
             border: 5px solid rgb(0, 0, 0);
             width: 800px;
-           /* background: linear-gradient(45deg, #b82020, #a0c51c, #109b1c, #0e32aa);*/
+           
            background-color: rgb(139, 0, 0);
         }
     </style>
